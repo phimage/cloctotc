@@ -41,7 +41,7 @@
 		48DDC46E22D5E43300044978 = {
 			isa = PBXGroup;
 			children = (
-				48DDC47922D5E43300044978 /* cloctotc */,
+				48DDC47922D5E43300044978 /* Sources */,
 				48DDC47822D5E43300044978 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		48DDC47922D5E43300044978 /* cloctotc */ = {
+		48DDC47922D5E43300044978 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
 				48DDC47A22D5E43300044978 /* main.swift */,
 			);
-			path = cloctotc;
+			path = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -245,7 +245,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 37UG5W39Z2;
+				DEVELOPMENT_TEAM = GGU39CDBL2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -255,7 +255,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 37UG5W39Z2;
+				DEVELOPMENT_TEAM = GGU39CDBL2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
